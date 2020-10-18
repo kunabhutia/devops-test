@@ -13,7 +13,6 @@ public class WelcomeController {
 		
 		//Flux
 		
-
 		
 		return "Hello FUCKING World!!!!"; //"application/json" mean this is a text not a redirect
 	}
